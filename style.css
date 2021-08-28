@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(181, 178, 238);
+    color: rgb(255, 73, 13);
+    font-size: large;
+    font: 40px bold;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#clock {
+    border-style: dashed;
+    width: 700px;
+    margin-left: 300px;
+}
+
+span {
+    font-size: larger;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
